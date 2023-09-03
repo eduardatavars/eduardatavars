@@ -1,8 +1,7 @@
 ### Oie! Eu sou a Duda.
 
 - 🔭 Trabalho com análise de dados financeiros no Itaú Unibanco.
-- 🌱 Estudando jQuery
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando jQuery e Design
 
 <div>
   <a href="https://github.com/eduardatavars">
