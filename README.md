@@ -1,4 +1,4 @@
-### Oie! Eu sou a Eduarda Tavares.
+### Oie! Eu sou a Duda.
 
 - 🔭 Trabalho com análise de dados financeiros no Itaú Unibanco.
 - 🌱 Estudando jQuery
