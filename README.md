@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Duda.
 
 - 🔭 Trabalho com análise de dados financeiros no Itaú Unibanco.
-- 🌱 Estudando Sass
+- 🌱 Estudando Gulp e Sass
 
 <div>
   <a href="https://github.com/eduardatavars">
