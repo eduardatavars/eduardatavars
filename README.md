@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Duda.
 
 - 🔭 Trabalho com análise de dados financeiros no Itaú Unibanco.
-- 🌱 Estudando JavaScript, LESS e Grunt.
+- 🌱 Estudando JavaScript, jQuery, SASS e Gulp.
 
 <div>
   <a href="https://github.com/eduardatavars">
